@@ -1,3 +1,6 @@
+Ztunnel на основе Rust для Istio Ambient Service Mesh.    
+https://docs.google.com/document/d/1_WpWjLDQk1wf_YojbCuA4_Pi7VHwycTconuKWxNUxf0/   
+
 # Ztunnel
 
 Ztunnel provides an experimental implementation of the ztunnel component of
