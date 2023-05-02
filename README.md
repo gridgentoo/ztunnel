@@ -7,6 +7,9 @@ https://github.com/gridgentoo/retina
 Cloudflare : Userspace WireGuard® Implementation in Rust.   
 https://github.com/gridgentoo/boringtun    
 
+Cloudflare : BoringSSL bindings for the Rust programming language.    
+https://github.com/gridgentoo/boring.    
+
 Cloudflare : Rust library for the Cloudflare v4 API.   
 https://github.com/gridgentoo/cloudflare-rs         
 
