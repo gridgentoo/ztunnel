@@ -1,5 +1,8 @@
 Ztunnel на основе Rust для Istio Ambient Service Mesh.    
-https://docs.google.com/document/d/1_WpWjLDQk1wf_YojbCuA4_Pi7VHwycTconuKWxNUxf0/   
+https://docs.google.com/document/d/1_WpWjLDQk1wf_YojbCuA4_Pi7VHwycTconuKWxNUxf0/  
+
+Retina способна анализировать трафик в режиме реального времени в средах с большим объемом (200G +).    
+https://github.com/gridgentoo/retina     
 
 # Ztunnel
 
