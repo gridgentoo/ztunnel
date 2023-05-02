@@ -11,7 +11,10 @@ Cloudflare : BoringSSL bindings for the Rust programming language.
 https://github.com/gridgentoo/boring.    
 
 Cloudflare : Rust library for the Cloudflare v4 API.   
-https://github.com/gridgentoo/cloudflare-rs         
+https://github.com/gridgentoo/cloudflare-rs
+
+Amazon : Firecracker – Lightweight Virtualization for Serverless Computing.     
+https://github.com/gridgentoo/firecracker.   
 
 # Ztunnel
 
