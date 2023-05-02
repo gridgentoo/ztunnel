@@ -5,7 +5,10 @@ Retina способна анализировать трафик в режиме 
 https://github.com/gridgentoo/retina 
 
 Cloudflare : Userspace WireGuard® Implementation in Rust.   
-https://github.com/gridgentoo/boringtun        
+https://github.com/gridgentoo/boringtun    
+
+Cloudflare : Rust library for the Cloudflare v4 API.   
+https://github.com/gridgentoo/cloudflare-rs         
 
 # Ztunnel
 
